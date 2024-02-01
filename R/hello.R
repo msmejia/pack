@@ -14,6 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 edwin <- function(a,b) {
-  c<-a+b
+  c<-(a+b)^2
   return(c)
 }
